@@ -1,5 +1,5 @@
-# Recipe Search Page
-A project created with an API &amp; Javascript to showcase recipes from following API link. I choose to display only links, picture and name but feel free to use my code and can display any number of other information from the JSON. 
+# Recipe Finder – JavaScript API Project
+This project was built using JavaScript and an external recipe API to dynamically display a curated selection of recipes. I chose to showcase each recipe's name, image, and source link for a clean, user-friendly interface. However, the code is flexible and can be easily extended to include additional data from the JSON response. Feel free to explore and customize it further!
 
 Used API: https://www.themealdb.com/api.php
 
